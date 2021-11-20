@@ -1,5 +1,6 @@
 # DNSQueryGoLang
-Basic DNS Query in Golang 
+#Basic DNS Query in Golang 
+
 package main
 
 import (
